@@ -1,5 +1,5 @@
 
-sonosctl	Sonos Controller
+sonctl:	Sonos Controller
 
 Fork of cli example within https://github.com/janbar/noson-app.git
 
